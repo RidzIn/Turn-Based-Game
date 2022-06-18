@@ -1,0 +1,123 @@
+                                Welcome to my Turn Based game manual
+At the start you will have 2 options
+    1) Start the game
+    2) End the game
+In case if you choose (1) you will be asked to pick 6 hero's from pool(15 characters)
+    There they are:
+-----------------------------
+Name: Water Archer
+Main Attribute: water
+Agility: 4
+Strength: 6
+HP: 13
+EXP: 0
+TYPE: COMMON
+SUPER POWER: water ball
+-----------------------------
+-----------------------------
+Name: Fire Archer
+Main Attribute: fire
+Agility: 4
+Strength: 6
+HP: 15
+EXP: 0
+TYPE: COMMON
+SUPER POWER: fire ball
+-----------------------------
+-----------------------------
+Name: Wind Archer
+Main Attribute: wind
+Agility: 4
+Strength: 6
+HP: 15
+EXP: 0
+TYPE: COMMON
+SUPER POWER: wind stream
+-----------------------------
+-----------------------------
+Name: Ground Spearman
+Main Attribute: wind
+Agility: 3
+Strength: 5
+HP: 20
+EXP: 0
+TYPE: COMMON
+SUPER POWER: berserk_mode
+-----------------------------
+-----------------------------
+Name: Ice Spearman
+Main Attribute: ice
+Agility: 3
+Strength: 5
+HP: 20
+EXP: 0
+TYPE: COMMON
+SUPER POWER: berserk_mode
+-----------------------------
+-----------------------------
+Name: ANGEL
+Main Attribute: wind
+Agility: 1
+Strength: 4
+HP: 30
+EXP: 0
+TYPE: IMMORTAL
+SUPER POWER: HEAL
+-----------------------------
+-----------------------------
+Name: ICE DRAGON
+Main Attribute: ice
+Agility: 4
+Strength: 10
+HP: 28
+EXP: 0
+TYPE: IMMORTAL
+SUPER POWER: WING STRIKE
+-----------------------------
+-----------------------------
+Name: FIRE DRAGON
+Main Attribute: fire
+Agility: 4
+Strength: 10
+HP: 28
+EXP: 0
+TYPE: IMMORTAL
+SUPER POWER: WING STRIKE
+-----------------------------
+-----------------------------
+Name: WATER DRAGON
+Main Attribute: water
+Agility: 4
+Strength: 10
+HP: 28
+EXP: 0
+TYPE: IMMORTAL
+SUPER POWER: WING STRIKE
+-----------------------------
+-----------------------------
+Name: GIANT
+Main Attribute: metal
+Agility: 2
+Strength: 20
+HP: 37
+EXP: 0
+TYPE: IMMORTAL
+SUPER POWER: REINCARNATION
+-----------------------------
+
+    They damage based on this table:
+ATTRIBUTE | WATER | GROUND | WIND | FIRE | ICE | METAL|
+WATER     |  0.5  |    2   |   1  |   2  |  1  |   1  |
+GROUND    |   1   |    1   |  0.5 |   2  |  2  |   2  |
+WIND      |   1   |   0.5  |   1  |   1  |  2  |  0.5 |
+FIRE      |  0.5  |   0.5  |   1  |   1  |  2  |   2  |
+ICE       |  0.5  |    2   |   1  |  0.5 | 0.5 |   1  |
+METAL     |   2   |    1   |   2  |  0.5 |  1  |  0.5 |
+
+Also there 4 ultimate mechanics
+1) Strong hit based on main attribute(all kind of balls and strikes)
+2) Increasing your strength (berserk mode)
+3) Increasing your agility (evasion)
+4) Heal: heals chosen unit
+5) REINCARNATION: let you reborn
+
